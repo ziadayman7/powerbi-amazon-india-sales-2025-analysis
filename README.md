@@ -5,8 +5,7 @@ Analyze Amazon India sales performance, customer behavior, and revenue loss due 
 
 ## Dataset
 - [amazon_sales_2025_INR.csv](data/amazon_sales_2025_INR.csv)
-- Includes revenue, returned orders, revenue lost, and delivery status.
-
+- 
 ## Key KPIs
 - Total Revenue
 - Revenue Lost to Returns
